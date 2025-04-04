@@ -52,8 +52,8 @@ the " Parenthesis"  , can have multiple values inside,
 like numbers, words, etc. but it's Ummutable ,we ca't delete
 after we creating the Tuple or items .
 
-EX: my_bag = ("apple", "banana", "cherry")
-    print(my_bag[0]) 
+    EX: my_bag = ("apple", "banana", "cherry")
+        print(my_bag[0]) 
 
 7️⃣ Set {**}
 -----------------------
@@ -62,11 +62,11 @@ it's don't allow duplicates it's mean each element shoud be unqe
 it' give un order result 
 
   ✅ set elements 
--add ()  -update()  -pop()  -rmove()
+       -add ()  -update()  -pop()  -rmove()
 
   ✅ Set Operations 
--Union () -Intension() -Difference() -is subject()
--is superset()
+      -Union () -Intension() -Difference() -is subject()
+      -is superset()
 
 8️⃣Dictionary 
 -------------------
@@ -78,16 +78,16 @@ key shoud be Uniqe .
  A ={ a:123 , 1:abc}
      a } key : 123 } value
          a=123 } item 
-✅ Dictionary Methods 
-  -get() -update() -value() -
-  -keys() -item()
+
+   ✅ Dictionary Methods 
+        -get() -update() -value() -
+        -keys() -item()
 
 
 
 
 
-✅Dictionary Methods
-  -
+
 
 
 
