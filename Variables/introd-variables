@@ -1,0 +1,13 @@
+🎯 What is variables  ?
+------------------------
+variable is nothig but a storage whare we keep or store the value
+A variable is like a box where you store some information.
+You give that box a name, and you can put something inside it (like a number or text).
+Later, you can use or change what’s inside the box anytime you want.
+
+EX🔢     variable = value 
+          ____________________
+             name = "Niranjan"     
+              age = 25              
+            height = 5.9 
+            is_devops = True 
