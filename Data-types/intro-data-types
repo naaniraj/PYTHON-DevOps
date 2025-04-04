@@ -1,0 +1,107 @@
+📦 What are Data Types? 
+------------------------------
+it's tells what kind of data inside the variable .
+Data types are the kinds of values you can store in variables.
+Each value in Python belongs to a specific type — like number, text, true/false, etc.
+
+1️⃣ Integer (int) 
+--------------------------
+it's tells the nubers inside the variable 
+
+ EX:    age = 25 
+     Class = 9 th 
+
+2️⃣ Float (float)
+---------------------------
+it's store the desimal numbers inside the variable 
+
+EX:  marks = 9.2 %
+    price  = 49.99 $
+  
+3️⃣ String (str) 
+-------------------------
+thi data type used for text or alfabet names 
+
+EX: Name = Niranjan
+    ''   = vamsi
+    ''   = vinay
+    ''   = Nagesh 
+
+4️⃣ Boolean (bool) 
+-------------------------
+it's tell omly the variable is true or flase
+
+ EX : niranjan is DevOps engneer 
+          print = true 
+      vinay is DevOps engneer 
+         print = flase 
+      vamsi is Bank employee 
+         print = true 
+
+5️⃣ List  [,,]
+-------------------------
+ collection of items, stored in square brackets []
+
+   EX: friens ["niranjan","vamsi","vinay","Nagesh"]
+       fruits = ["apple", "banana", "mango"]
+
+6️⃣ Tuple (**)
+ --------------------------
+Here we can store the diffrent types items inside 
+the " Parenthesis"  , can have multiple values inside,
+like numbers, words, etc. but it's Ummutable ,we ca't delete
+after we creating the Tuple or items .
+
+    EX: my_bag = ("apple", "banana", "cherry")
+        print(my_bag[0]) 
+
+7️⃣ Set {**}
+-----------------------
+we keep multiple elements inside the {..} "curly braces "
+it's don't allow duplicates it's mean each element shoud be unqe 
+it' give un order result 
+
+  ✅ set elements 
+       -add ()  -update()  -pop()  -rmove()
+
+  ✅ Set Operations 
+      -Union () -Intension() -Difference() -is subject()
+      -is superset()
+
+8️⃣Dictionary 
+-------------------
+Here the value stored like a key and value basics
+if we wnat value we shoud call key 
+key is immutable ,key will act as a index ,
+key shoud be Uniqe .
+
+ A ={ a:123 , 1:abc}
+     a } key : 123 } value
+         a=123 } item 
+
+   ✅ Dictionary Methods 
+        -get() -update() -value() -
+        -keys() -item()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9️⃣
+🔟
+
+
+
+
+
+
