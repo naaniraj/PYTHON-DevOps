@@ -1,0 +1,40 @@
+🔄 What is a loop?
+----------------------------------
+A loop is used to repeat something again and again.
+if we wnat to write something for multiple times we use loops
+ loops are 3 types 
+    1️⃣ for loop ,2️⃣ while loop , 3️⃣ Do while loop .
+
+1️⃣ for loop
+-------------
+if we menthion particualr times to repeat a particual task
+we use this for loop .
+
+    EX:   for i in range(5):
+            print(i)
+
+out put:   0 1 2 3 4 5
+
+2️⃣ while loop
+----------------
+we repeat the task the until the condition is ture 
+EX:        i = 0
+      while i < 5:
+        print(i)
+         i += 1
+
+out put:    0 1 2 3 4
+
+3️⃣ Do while loop
+--------------------
+when we run the block of the code it will run for first time 
+then its will check the condition ,if the the conditon id true 
+the code will run or its flase its don't run
+
+EX:       while True:
+    print("Hello Niranjan")   # do this first
+    user_input = input("Do you want to continue? (yes/no): ")
+    if user_input.lower() != "yes":
+        break
+
+
