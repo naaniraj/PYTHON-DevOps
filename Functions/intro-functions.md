@@ -1,7 +1,9 @@
-What is functions ?
+## What is functions ?
 **********************
 Functions is nothing but a block of a code contain a set of 
 instactions ,it's only run when we exicute .
 
-  EX: def greet(name):
-    print("Hello", name)
+  EX:       
+  
+     def greet(name):
+        print("Hello", name)
