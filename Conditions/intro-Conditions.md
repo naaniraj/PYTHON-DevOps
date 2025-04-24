@@ -1,5 +1,5 @@
 ## What is Conditions ?
- conditions are used to control the flow of a program based on whether a statement is true or false.
+ conditions are used to control the flow of a program based on a statement is true or false.
 They rely on conditional statements like if, elif, and else. Here's a simple example:
 
 
